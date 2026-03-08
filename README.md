@@ -152,5 +152,5 @@ Estos insights pueden ayudar a la empresa a diseñar estrategias de retención m
 - Seaborn
 
 ## Autor
-###Verónica Apolaya
+### Verónica Apolaya
 Proyecto desarrollado como parte del programa Oracle Next Education — Data Science Track.
